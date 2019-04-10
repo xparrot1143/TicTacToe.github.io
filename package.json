@@ -1,5 +1,5 @@
 {
-  "name": "tic tac toe",
+  "name": "tic-tac-toe",
   "version": "1.0.0",
   "description": "React Tic Tac Toe tutorial game",
   "main": "index.js",
